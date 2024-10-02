@@ -53,3 +53,16 @@ const multiply = (num1, num2) => {
 console.log(multiply(2,4))
 console.log(multiply(10,-5))
 console.log(multiply(3,7.5))
+
+//Question 6
+
+ const add = (num1, num2) => {
+    if (num1 !== num2) {
+        return num1 + num2;
+    } else {
+        return 3 * (num1 + num2);
+    }
+ }
+ console.log(add(5, 5));
+ console.log(add(4, 5));
+ console.log(add(10, 5.9));
