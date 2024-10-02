@@ -94,7 +94,7 @@ Then, resolve the conflicts by doing the following:
 
 Be sure to test your functions as you write them! You can invoke the functions after they have been implemented or use `console.log` to print out their return value.
 
-1. Write a function `fiveToOneHundred` that console logs all numbers from 5 to 100.
+ . Write a function `fiveToOneHundred` that console logs all numbers from 5 to 100.
 
 2. Write a function `multiplesOfThree` that console logs all positive numbers to 100 that is a multiple of 3.
 > Multiples of 3 are: `3, 6, 9, 12, 15, ...`
