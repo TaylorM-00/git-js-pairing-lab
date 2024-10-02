@@ -1,4 +1,5 @@
 //Code your solutions in this file
+//Question 1
 const fiveToOneHundred = () => {
     for (let i = 5; i < 101; i += 1) {
         console.log(i)     
@@ -6,6 +7,9 @@ const fiveToOneHundred = () => {
 }
 
 console.log (fiveToOneHundred())
+
+//Question 2
+
 const multiplesOfThree = () => {
     let threes = [];
 
