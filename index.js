@@ -66,5 +66,4 @@ console.log(multiply(3,7.5))
  console.log(add(5, 5));
  console.log(add(4, 5));
  console.log(add(10, 5.9));
-
  
