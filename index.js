@@ -66,3 +66,19 @@ console.log(multiply(3,7.5))
  console.log(add(5, 5));
  console.log(add(4, 5));
  console.log(add(10, 5.9));
+
+ //Question 7
+
+ const isNegative = (num) => {
+    if (num < 0){
+        return true 
+    } else {
+    if (num > 0) {
+        return false
+    }
+    }
+
+ }
+ console.log(isNegative(3))
+ console.log(isNegative(-2))
+ console.log(isNegative(Math.PI))
