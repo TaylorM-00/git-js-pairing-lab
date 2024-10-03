@@ -67,10 +67,4 @@ console.log(multiply(3,7.5))
  console.log(add(4, 5));
  console.log(add(10, 5.9));
 
-
-  const largest = (num1, num2, num3) => {
-    return Math.max(num1, num2, num3)
- }
- console.log(largest(4, 6, 8))
- console.log(largest(30, 22, 17))
- console.log(largest(4, 108, 86))
+ 
