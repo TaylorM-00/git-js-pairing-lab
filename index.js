@@ -90,3 +90,19 @@ const triangleArea = (h, b) => {
 }
 console.log(triangleArea(5, 7))
 console.log(triangleArea(6, 8))
+
+// Question 9
+
+const betweenTwentyAndFourty = (num) => {
+    if (num > 20 && num < 40 ){
+        return true
+    } else {
+        return false
+    }
+ }
+ console.log (betweenTwentyAndFourty(20))
+ console.log (betweenTwentyAndFourty(21))
+ console.log (betweenTwentyAndFourty(39))
+ console.log (betweenTwentyAndFourty(40))
+ console.log (betweenTwentyAndFourty(45))
+ 
