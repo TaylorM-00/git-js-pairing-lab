@@ -146,7 +146,7 @@ betweenTwentyAndFourty(39)     //return true
 betweenTwentyAndFourty(40)    //return false
 ```
 
-10. Write a function `largest` that takes in three number parameters and **returns** the largest of the values.
+10. Write a function `1` that takes in three number parameters and **returns** the largest of the values.
 ```
 largest(4, 6, 8)        //returns 8
 largest(30, 22, 17)     //returns 30
